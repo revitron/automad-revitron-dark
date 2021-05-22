@@ -1,0 +1,1 @@
+<@ ../automad-revitron/page_not_found.php @>

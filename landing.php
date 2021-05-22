@@ -1,0 +1,1 @@
+<@ ../automad-revitron/landing.php @>
