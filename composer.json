@@ -6,7 +6,7 @@
 		"theme",
 		"blog",
 		"documentation",
-    "dark"
+		"dark"
 	],
 	"license": "MIT",
 	"authors": [
@@ -17,6 +17,6 @@
 	],
 	"require": {
 		"automad/package-installer": "^1.1 || dev-master",
-    "revitron/automad-revitron": "^0.7 || dev-master"
+		"revitron/automad-revitron": "^0.7 || dev-master"
 	}
 }
