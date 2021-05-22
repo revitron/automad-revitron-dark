@@ -1,0 +1,22 @@
+{
+	"name": "revitron/automad-revitron-dark",
+	"description": "An dark and elegant documentation theme for Automad based on the Revitron Sphinx theme",
+	"type": "automad-package",
+	"keywords": [
+		"theme",
+		"blog",
+		"documentation",
+    "dark"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Marc Anton Dahmen",
+			"homepage": "https://marcdahmen.de"
+		}
+	],
+	"require": {
+		"automad/package-installer": "^1.1 || dev-master",
+    "revitron/automad-revitron": "^0.7 || dev-master"
+	}
+}
